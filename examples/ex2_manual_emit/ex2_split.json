@@ -1,0 +1,5 @@
+{
+  "name": "ex2_split",
+  "handler": "word_counter.split",
+  "followings": ["ex2_count"]
+}

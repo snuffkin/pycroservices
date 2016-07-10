@@ -1,0 +1,4 @@
+{
+  "name": "ex2_count",
+  "handler": "word_counter.count"
+}
