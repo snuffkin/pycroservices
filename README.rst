@@ -13,6 +13,8 @@ Here is a list of the package contents:
 
 * provide template creation tool (future work)
 
+* provide graph creation tool (future work)
+
 * provide endopoint creation tool (future work)
 
 * provide validation tool (future work)
@@ -41,11 +43,11 @@ Deployment
 
 Zip the content of the your-function-dir directory, which consists of the following contents:
 
-* your function code
+* your function codes
 
-* configuration file (<function_name>.json)
+* configuration files (<function_name>.json)
 
-* pycroservices package
+* pycroservices.py
 
 Upload the zip file to AWS Lambda.
 

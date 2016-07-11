@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-   Copyright 2016 pycroservices project
+   Copyright 2016 Satoyuki Tsukano
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@ setup(
     license='Apache License 2.0',
     classifiers=classifiers,
     keywords=['microservices', 'AWS Lambda'],
-    author='pycroservices project',
+    author='Satoyuki Tsukano',
     url='https://github.com/snuffkingit/pycroservices',
     install_requires=['boto3'],
     packages=['pycroservices'],
