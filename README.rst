@@ -1,5 +1,5 @@
-pycroservices
-=============
+What's pycroservices
+====================
 pycroservices is a microservices framework on AWS Lambda.
 
 pycroservices runs AWS Lambda functions designed as a directed acyclic graph.
