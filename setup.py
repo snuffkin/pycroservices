@@ -32,7 +32,8 @@ setup(
     classifiers=classifiers,
     keywords=['microservices', 'AWS Lambda'],
     author='Satoyuki Tsukano',
+    author_email='tknstyk at gmail.com',
     url='https://github.com/snuffkingit/pycroservices',
     install_requires=['boto3'],
-    packages=['pycroservices'],
+    packages=[''],
 )
